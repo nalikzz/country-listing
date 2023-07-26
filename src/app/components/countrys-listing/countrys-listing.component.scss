@@ -1,0 +1,15 @@
+.view-btn{
+    outline: none;
+    border: none;
+    border-radius: 100%;
+    background-color: transparent;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.view-btn:active{
+   background-color: #e2e2e2;
+}
